@@ -4976,7 +4976,7 @@
             "isSystem": false,
             "datatype": "any",
             "description": "",
-            "defaultValue": "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"
+            "defaultValue": "<access_token>"
           },
           "shop_name": {
             "isArray": false,
@@ -5137,7 +5137,7 @@
             "isSystem": false,
             "datatype": "any",
             "description": "",
-            "defaultValue": "facf6aaa18f3e3744297584e0f586e14"
+            "defaultValue": "<access_token>"
           },
           "customer_email": {
             "isArray": false,
